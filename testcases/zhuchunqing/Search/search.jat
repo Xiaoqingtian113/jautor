@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestPlan testname="搜索" guiclass="quark.jautor.core.TestPlanGUI" testclass="quark.jautor.core.TestPlan" description="" awname="测试计划" enabled="true" status="notest">
+  <TestSuite testname="sogou" guiclass="quark.jautor.core.TestSuiteGUI" testclass="quark.jautor.core.TestSuite" description="" awname="测试套件" enabled="true" status="notest">
+    <StringProp testname="TestSuite.uuid">cce28d22-7481-4e8d-8f20-657b20594eb5</StringProp>
+  </TestSuite>
+  <HashTree>
+    <TestCase testname="Sogou搜索" guiclass="quark.jautor.core.TestCaseGUI" testclass="quark.jautor.core.TestCase" description="" awname="测试用例" enabled="true" status="notest">
+      <StringProp testname="TestCase.dataPath">E:\workspace\jautor\testcases\zhuchunqing\Search\sogou-datadrive.xlsx</StringProp>
+      <StringProp testname="TestCase.poPath">E:\workspace\jautor\testcases\zhuchunqing\Search\sogou.pol</StringProp>
+      <StringProp testname="TestCase.uuid">f2aab868-52bc-4ef3-a2bb-24dbf9d43268</StringProp>
+    </TestCase>
+    <HashTree>
+      <OpenURL testname="打开网址" guiclass="quark.jautor.browser.OpenURLGUI" testclass="quark.jautor.browser.OpenURL" description="" awname="打开网址" enabled="true" status="notest">
+        <StringProp testname="OpenURL.url">http://www.sogou.com</StringProp>
+      </OpenURL>
+      <HashTree/>
+      <SendKeys testname="输入" guiclass="quark.jautor.element.SendKeysGUI" testclass="quark.jautor.element.SendKeys" description="" awname="输入" enabled="true" status="notest">
+        <StringProp testname="LocateBaseNode.page">sogou首页</StringProp>
+        <StringProp testname="LocateBaseNode.elem">搜索关键字</StringProp>
+        <StringProp testname="LocateBaseNode.condition">可见</StringProp>
+        <StringProp testname="SendKeys.input">${keyword}</StringProp>
+      </SendKeys>
+      <HashTree/>
+      <Click testname="点击" guiclass="quark.jautor.element.ClickGUI" testclass="quark.jautor.element.Click" description="" awname="点击" enabled="true" status="notest">
+        <StringProp testname="LocateBaseNode.page">sogou首页</StringProp>
+        <StringProp testname="LocateBaseNode.elem">搜索按钮</StringProp>
+        <StringProp testname="LocateBaseNode.condition">可点击</StringProp>
+      </Click>
+      <HashTree/>
+      <Wait testname="线程等待" guiclass="quark.jautor.other.WaitGUI" testclass="quark.jautor.other.Wait" description="" awname="线程等待" enabled="true" status="notest">
+        <LongProp testname="Wait.waitTime">22000</LongProp>
+      </Wait>
+      <HashTree/>
+    </HashTree>
+  </HashTree>
+  <TestSuite testname="baidu" guiclass="quark.jautor.core.TestSuiteGUI" testclass="quark.jautor.core.TestSuite" description="" awname="测试套件" enabled="true" status="notest">
+    <StringProp testname="TestSuite.uuid">3a6eaad4-a999-4d30-80f1-0c28f444614f</StringProp>
+  </TestSuite>
+  <HashTree>
+    <TestCase testname="baidu搜索" guiclass="quark.jautor.core.TestCaseGUI" testclass="quark.jautor.core.TestCase" description="" awname="测试用例" enabled="true" status="notest">
+      <StringProp testname="TestCase.dataPath">E:\workspace\jautor\testcases\zhuchunqing\Search\baidu-datadrive.xlsx</StringProp>
+      <StringProp testname="TestCase.poPath">E:\workspace\jautor\testcases\zhuchunqing\Search\baidu.pol</StringProp>
+      <StringProp testname="TestCase.uuid">7e456814-3617-45aa-87fb-b3153bd13c5a</StringProp>
+    </TestCase>
+    <HashTree>
+      <OpenURL testname="打开网址" guiclass="quark.jautor.browser.OpenURLGUI" testclass="quark.jautor.browser.OpenURL" description="" awname="打开网址" enabled="true" status="notest">
+        <StringProp testname="OpenURL.url">http://www.baidu.com</StringProp>
+      </OpenURL>
+      <HashTree/>
+      <SendKeys testname="输入" guiclass="quark.jautor.element.SendKeysGUI" testclass="quark.jautor.element.SendKeys" description="" awname="输入" enabled="true" status="notest">
+        <StringProp testname="LocateBaseNode.page">baidu首页</StringProp>
+        <StringProp testname="LocateBaseNode.elem">搜索关键字</StringProp>
+        <StringProp testname="LocateBaseNode.condition">可见</StringProp>
+        <StringProp testname="SendKeys.input">${keyword}</StringProp>
+      </SendKeys>
+      <HashTree/>
+      <Click testname="点击" guiclass="quark.jautor.element.ClickGUI" testclass="quark.jautor.element.Click" description="" awname="点击" enabled="true" status="notest">
+        <StringProp testname="LocateBaseNode.page">baidu首页</StringProp>
+        <StringProp testname="LocateBaseNode.elem">搜索按钮</StringProp>
+        <StringProp testname="LocateBaseNode.condition">可见</StringProp>
+      </Click>
+      <HashTree/>
+      <Wait testname="线程等待" guiclass="quark.jautor.other.WaitGUI" testclass="quark.jautor.other.Wait" description="" awname="线程等待" enabled="true" status="notest">
+        <LongProp testname="Wait.waitTime">2000</LongProp>
+      </Wait>
+      <HashTree/>
+    </HashTree>
+  </HashTree>
+</TestPlan>

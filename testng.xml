@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Jautor web 自动化测试" parallel="classes">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="quark.jautor.testng.ScreenShotListener"/>
+    <listener class-name="quark.jautor.testng.RetryListener"/>
+  </listeners>
+  <test name="测试计划">
+    <classes>
+      <class name="quark.jautor.testcases.测试套件7e3c78f191ce463489aecbe24099160b"/>
+    </classes>
+  </test> <!-- 测试计划 -->
+</suite> <!-- Jautor web 自动化测试 -->
+

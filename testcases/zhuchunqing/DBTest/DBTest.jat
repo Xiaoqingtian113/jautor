@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestPlan testname="测试计划" guiclass="quark.jautor.core.TestPlanGUI" testclass="quark.jautor.core.TestPlan" description="" awname="测试计划" enabled="true" status="notest">
+  <TestSuite testname="数据库测试" guiclass="quark.jautor.core.TestSuiteGUI" testclass="quark.jautor.core.TestSuite" description="" awname="测试套件" enabled="true" status="notest">
+    <StringProp testname="TestSuite.uuid">9668b465-dff0-4a30-8369-8d3d0f6fd9ac</StringProp>
+  </TestSuite>
+  <HashTree>
+    <TestCase testname="SIT01数据库测试" guiclass="quark.jautor.core.TestCaseGUI" testclass="quark.jautor.core.TestCase" description="" awname="测试用例" enabled="true" status="notest">
+      <StringProp testname="TestCase.dataPath"></StringProp>
+      <StringProp testname="TestCase.poPath"></StringProp>
+      <StringProp testname="TestCase.uuid">50cc3da5-0f88-4764-906a-c8593452870a</StringProp>
+    </TestCase>
+    <HashTree>
+      <ConnectDB testname="建立连接" guiclass="quark.jautor.database.ConnectDBGUI" testclass="quark.jautor.database.ConnectDB" description="" awname="建立连接" enabled="true" status="notest">
+        <StringProp testname="ConnectDB.url">jdbc:mysql://172.16.1.34:3308/xedk?useSSL=false&amp;serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=utf-8&amp;autoReconnect=true&amp;allowMultiQueries=true</StringProp>
+        <StringProp testname="ConnectDB.username">xedk</StringProp>
+        <StringProp testname="ConnectDB.password">admin</StringProp>
+        <StringProp testname="ConnectDB.dbtype">mysql</StringProp>
+        <StringProp testname="ConnectDB.connName">conn1</StringProp>
+      </ConnectDB>
+      <HashTree/>
+      <QueryDB testname="查询" guiclass="quark.jautor.database.QueryDBGUI" testclass="quark.jautor.database.QueryDB" description="" awname="查询" enabled="true" status="notest">
+        <StringProp testname="QueryDB.connName">conn1</StringProp>
+        <StringProp testname="QueryDB.sql">SELECT uuid,trust_no,trust_name FROM `p2p_trust` where tx_tel=?;</StringProp>
+        <StringProp testname="QueryDB.param">108113</StringProp>
+        <StringProp testname="QueryDB.result">uuid,trust_no,trust_name</StringProp>
+      </QueryDB>
+      <HashTree/>
+      <ShowValue testname="显示变量值（调试用）" guiclass="quark.jautor.other.ShowValueGUI" testclass="quark.jautor.other.ShowValue" description="" awname="显示变量值（调试用）" enabled="true" status="notest">
+        <StringProp testname="ShowValue.varName">uuid_3</StringProp>
+      </ShowValue>
+      <HashTree/>
+      <ShowValue testname="显示变量值（调试用）" guiclass="quark.jautor.other.ShowValueGUI" testclass="quark.jautor.other.ShowValue" description="" awname="显示变量值（调试用）" enabled="true" status="notest">
+        <StringProp testname="ShowValue.varName">trust_no_3</StringProp>
+      </ShowValue>
+      <HashTree/>
+      <ShowValue testname="显示变量值（调试用）" guiclass="quark.jautor.other.ShowValueGUI" testclass="quark.jautor.other.ShowValue" description="" awname="显示变量值（调试用）" enabled="true" status="notest">
+        <StringProp testname="ShowValue.varName">trust_name_3</StringProp>
+      </ShowValue>
+      <HashTree/>
+    </HashTree>
+  </HashTree>
+</TestPlan>

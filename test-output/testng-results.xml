@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href=http://172.29.20.31:8080/images/20180525151032421.png target=_blank style=color:red><img src=E:\workspace\jautor\res\icon\screenshot.png style=width:16px;height:16px align=absmiddle><b>20180525151032421.png</b></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Jautor web 自动化测试" duration-ms="6632" started-at="2018-05-25T07:11:54Z" finished-at="2018-05-25T07:12:01Z">
+    <groups>
+    </groups>
+    <test name="测试计划" duration-ms="6632" started-at="2018-05-25T07:11:54Z" finished-at="2018-05-25T07:12:01Z">
+      <class name="quark.jautor.testcases.测试套件7e3c78f191ce463489aecbe24099160b">
+        <test-method status="PASS" signature="测试用例28e1fba3a1714a0a92308ed76583db5b(org.testng.ITestContext, javax.swing.tree.DefaultMutableTreeNode, quark.jautor.core.POData, javax.script.SimpleScriptContext, int)[pri:0, instance:quark.jautor.testcases.测试套件7e3c78f191ce463489aecbe24099160b@47261790]" name="测试用例28e1fba3a1714a0a92308ed76583db5b" duration-ms="6631" started-at="2018-05-25T15:11:54Z" data-provider="dp" finished-at="2018-05-25T15:12:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@8896113]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[测试用例]]>
+              </value>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[变量：]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- 测试用例28e1fba3a1714a0a92308ed76583db5b -->
+        <test-method status="PASS" signature="quitWebDriver(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:quark.jautor.testcases.测试套件7e3c78f191ce463489aecbe24099160b@47261790]" name="quitWebDriver" is-config="true" duration-ms="0" started-at="2018-05-25T15:12:01Z" finished-at="2018-05-25T15:12:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@8896113]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=测试用例28e1fba3a1714a0a92308ed76583db5b status=SUCCESS method=测试套件7e3c78f191ce463489aecbe24099160b.测试用例28e1fba3a1714a0a92308ed76583db5b(org.testng.ITestContext, javax.swing.tree.DefaultMutableTreeNode, quark.jautor.core.POData, javax.script.SimpleScriptContext, int)[pri:0, instance:quark.jautor.testcases.测试套件7e3c78f191ce463489aecbe24099160b@47261790] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitWebDriver -->
+      </class> <!-- quark.jautor.testcases.测试套件7e3c78f191ce463489aecbe24099160b -->
+    </test> <!-- 测试计划 -->
+  </suite> <!-- Jautor web 自动化测试 -->
+</testng-results>

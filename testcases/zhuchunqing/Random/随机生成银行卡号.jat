@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestPlan testname="测试计划" guiclass="quark.jautor.core.TestPlanGUI" testclass="quark.jautor.core.TestPlan" description="" awname="测试计划" enabled="true" status="notest">
+  <TestSuite testname="测试套件" guiclass="quark.jautor.core.TestSuiteGUI" testclass="quark.jautor.core.TestSuite" description="" awname="测试套件" enabled="true" status="notest">
+    <StringProp testname="TestSuite.uuid">29e51edc-08fd-4fe8-9a34-b5965f5dc9b7</StringProp>
+  </TestSuite>
+  <HashTree>
+    <TestCase testname="测试用例" guiclass="quark.jautor.core.TestCaseGUI" testclass="quark.jautor.core.TestCase" description="" awname="测试用例" enabled="true" status="notest">
+      <StringProp testname="TestCase.dataPath"></StringProp>
+      <StringProp testname="TestCase.poPath"></StringProp>
+      <StringProp testname="TestCase.uuid">cef9694a-567e-47a1-a56c-f1647eaa43a3</StringProp>
+    </TestCase>
+    <HashTree>
+      <RandomBankCard testname="生成随机银行卡号" guiclass="quark.jautor.random.RandomBankCardGUI" testclass="quark.jautor.random.RandomBankCard" description="" awname="生成随机银行卡号" enabled="true" status="notest">
+        <StringProp testname="RandomBandCard.bank">工商银行</StringProp>
+        <StringProp testname="RandomBandCard.bankCard">card</StringProp>
+      </RandomBankCard>
+      <HashTree/>
+      <ShowValue testname="显示变量值（调试用）" guiclass="quark.jautor.other.ShowValueGUI" testclass="quark.jautor.other.ShowValue" description="" awname="显示变量值（调试用）" enabled="true" status="notest">
+        <StringProp testname="ShowValue.varName">${card}</StringProp>
+      </ShowValue>
+      <HashTree/>
+    </HashTree>
+  </HashTree>
+</TestPlan>

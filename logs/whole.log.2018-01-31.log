@@ -1,0 +1,1192 @@
+[INFO ][2018/01/31 16:41:44724][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/01/31 16:44:38259][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/01/31 16:45:0167 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 16:45:0167 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 16:45:0176 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 16:45:0176 ][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 16:45:0176 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 16:45:0177 ][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 16:45:0181 ][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 16:45:01488][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 16:45:01488][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 16:45:01489][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 16:45:01558][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 16:45:01559][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 16:45:01691][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 16:45:01819][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 16:45:01846][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:107)]
+开始生成DataProvider......
+[INFO ][2018/01/31 16:45:01846][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:107)]
+开始生成DataProvider......
+[INFO ][2018/01/31 16:45:01847][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:121)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\sogou-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 16:45:01847][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:121)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\baidu-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 16:45:01903][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:123)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 16:45:01906][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:123)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 16:45:01917][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/01/31 16:45:01917][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/01/31 16:48:11237][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/01/31 16:48:21971][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 16:48:21972][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 16:48:21977][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 16:48:21978][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 16:48:21978][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 16:48:21979][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 16:48:21983][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 16:48:22436][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 16:48:22437][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 16:48:22575][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 16:48:22699][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 16:48:22724][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:107)]
+开始生成DataProvider......
+[WARN ][2018/01/31 16:48:22724][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:111)]
+没有数据驱动文件
+[INFO ][2018/01/31 16:48:22745][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/01/31 16:49:30683][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 16:49:30684][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 16:49:30685][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 16:49:30686][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 16:49:30686][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 16:49:30686][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 16:49:30687][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 16:49:30758][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 16:49:30759][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 16:49:30761][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 16:49:30767][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:107)]
+开始生成DataProvider......
+[WARN ][2018/01/31 16:49:30767][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:111)]
+没有数据驱动文件
+[INFO ][2018/01/31 16:49:30767][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/01/31 16:49:320  ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:57)]
+获取到InternetExplorer浏览器WebDriver
+[INFO ][2018/01/31 16:49:3227 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:89)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 16:49:3240 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:91)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 16:49:3253 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:93)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 16:49:3253 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:148)]
+---测试套件【数据库测试】--测试用例【SIT01数据库测试】--第【0】条数据--正在执行---
+[INFO ][2018/01/31 16:49:32515][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:158)]
+测试用例【SIT01数据库测试】下面的测试步骤【建立连接】执行通过
+[INFO ][2018/01/31 16:49:32546][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:158)]
+测试用例【SIT01数据库测试】下面的测试步骤【查询】执行通过
+[INFO ][2018/01/31 16:49:32546][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:158)]
+测试用例【SIT01数据库测试】下面的测试步骤【显示变量值（调试用）】执行通过
+[INFO ][2018/01/31 16:49:32547][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:158)]
+测试用例【SIT01数据库测试】下面的测试步骤【显示变量值（调试用）】执行通过
+[INFO ][2018/01/31 16:49:32547][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:158)]
+测试用例【SIT01数据库测试】下面的测试步骤【显示变量值（调试用）】执行通过
+[INFO ][2018/01/31 16:49:3374 ][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:196)]
+退出浏览器
+[INFO ][2018/01/31 16:53:37283][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 16:53:37283][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 16:53:37285][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 16:53:37285][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 16:53:37285][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 16:53:37285][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 16:53:37286][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 16:53:37350][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 16:53:37350][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 16:53:37352][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 16:53:37362][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:107)]
+开始生成DataProvider......
+[WARN ][2018/01/31 16:53:37363][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:111)]
+没有数据驱动文件
+[INFO ][2018/01/31 16:53:37363][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:03:44355][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 17:03:44356][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 17:03:44357][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 17:03:44358][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:03:44358][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 17:03:44358][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:03:44362][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:03:44413][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:03:44413][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 17:03:44414][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 17:03:44421][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:107)]
+开始生成DataProvider......
+[WARN ][2018/01/31 17:03:44421][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:111)]
+没有数据驱动文件
+[INFO ][2018/01/31 17:03:44421][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:04:07646][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/01/31 17:04:15312][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 17:04:15313][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 17:04:15318][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 17:04:15319][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:04:15319][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 17:04:15320][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:04:15321][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:04:15753][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:04:15754][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 17:04:15885][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 17:04:162  ][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:04:1626 ][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:107)]
+开始生成DataProvider......
+[WARN ][2018/01/31 17:04:1626 ][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:111)]
+没有数据驱动文件
+[INFO ][2018/01/31 17:04:1647 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:19:34421][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/01/31 17:19:42390][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 17:19:42391][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 17:19:42396][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 17:19:42396][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:19:42397][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 17:19:42397][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:19:42398][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:19:42801][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:19:42801][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:19:42806][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:19:42893][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:19:42895][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 17:19:4321 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 17:19:43142][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:19:43168][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 17:19:43168][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 17:19:43169][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\sogou-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 17:19:43169][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\baidu-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 17:19:43221][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 17:19:43224][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 17:19:43237][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:19:43237][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:19:45126][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:19:45243][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:19:45245][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:19:45247][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:19:45247][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 17:19:45590][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:19:45700][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:19:45702][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:19:45704][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:19:45704][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 17:19:51339][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:19:51373][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:19:51436][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:19:51466][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:19:51511][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:19:53230][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:19:53264][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:19:53298][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:19:53330][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:19:53359][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:19:53511][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:19:55360][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:19:57487][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:19:57487][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:19:57491][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:19:57491][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:19:58950][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:19:5961 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:19:5963 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:19:5965 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:19:5965 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 17:20:01301][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:20:01413][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:20:01414][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:20:01416][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:20:01416][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 17:20:07266][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:20:07288][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:20:07342][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:20:07367][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:20:07402][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:20:07747][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:20:07772][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:20:07801][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:20:07832][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:20:07864][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:20:09403][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:20:09864][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:20:10557][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:20:10557][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:20:10968][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:20:10969][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:20:12233][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:20:12346][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:20:12348][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:20:12350][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:20:12350][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 17:20:13232][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:20:13353][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:20:13355][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:20:13358][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:20:13358][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 17:20:18435][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[INFO ][2018/01/31 17:20:18438][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:20:18462][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[ERROR][2018/01/31 17:20:18466][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:20:18512][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[INFO ][2018/01/31 17:20:18548][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:20:18553][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[ERROR][2018/01/31 17:20:18586][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:20:18607][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:20:18632][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:20:20608][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:20:20633][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:20:21712][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:20:21736][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:21:0476 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 17:21:0476 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 17:21:0479 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 17:21:0479 ][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:21:0479 ][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 17:21:0479 ][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:21:0480 ][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:21:04134][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:21:04134][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:21:04135][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:21:04185][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:21:04185][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 17:21:04190][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 17:21:04198][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 17:21:04199][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\sogou-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 17:21:04203][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 17:21:04203][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\baidu-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 17:21:04215][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 17:21:04215][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:21:04220][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 17:21:04227][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:21:0689 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:21:0696 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:21:06223][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:21:06224][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:21:06225][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:21:06225][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:21:06226][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 17:21:06227][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:21:06229][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:21:06229][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 17:21:10922][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:21:10944][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:21:10976][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:21:1114 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:21:1120 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:21:1143 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:21:1150 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:21:11137][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:21:11165][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:21:11231][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:21:1350 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:21:13232][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:21:14157][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:21:14158][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:21:14336][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:21:14337][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:21:15592][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:21:15702][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:21:15704][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:21:15705][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:21:15706][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 17:21:15991][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:21:16114][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:21:16116][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:21:16118][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:21:16118][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 17:21:21437][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:21:21462][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:21:21490][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[INFO ][2018/01/31 17:21:21504][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:21:21533][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[ERROR][2018/01/31 17:21:21536][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:21:21573][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:21:21608][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:21:21637][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:21:21700][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:21:23573][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:21:23701][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:21:24677][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:21:24677][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:21:24804][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:21:24805][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:21:26310][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:21:26381][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:21:26446][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:21:26448][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:21:26450][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:21:26450][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 17:21:26521][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:21:26523][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:21:26524][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:21:26524][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 17:21:32634][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:21:32658][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:21:32728][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:21:32750][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:21:32757][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:21:32781][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:21:32797][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:21:32845][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:21:32876][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:21:32909][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:21:34797][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:21:34909][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:21:35901][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:21:3613 ][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:199)]
+退出浏览器
+[INFO ][2018/01/31 17:53:34328][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/01/31 17:53:56530][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 17:53:56530][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 17:53:56536][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 17:53:56537][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:53:56537][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 17:53:56537][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:53:56541][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:53:56948][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:53:56948][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:53:56950][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:53:5722 ][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:53:5723 ][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 17:53:57155][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 17:53:57273][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:53:57298][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 17:53:57298][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 17:53:57299][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\sogou-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 17:53:57299][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\baidu-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 17:53:57357][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 17:53:57362][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 17:53:57375][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:53:57375][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:53:59538][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:53:59623][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:53:59654][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:53:59656][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:53:59659][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:53:59659][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 17:53:59735][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:53:59737][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:53:59739][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:53:59739][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 17:54:03701][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:54:03733][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:54:03770][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:54:03808][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:54:03839][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:54:03942][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:54:03978][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:54:0449 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:54:0472 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:54:04126][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:54:05839][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:54:05842][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:54:05842][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:54:06126][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:54:06128][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:54:06129][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:54:07607][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:54:07720][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:54:07721][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:54:07722][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:54:07723][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 17:54:08281][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:54:08392][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:54:08394][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:54:08396][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:54:08396][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 17:54:13608][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:54:13632][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:54:13685][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[INFO ][2018/01/31 17:54:13706][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:54:13717][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[ERROR][2018/01/31 17:54:13731][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:54:13747][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:54:13778][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:54:13789][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:54:13818][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:54:15789][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:54:15790][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:54:15791][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:54:15818][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:54:15819][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:54:15820][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:54:17532][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:54:17709][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:54:17710][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:54:17712][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:54:17712][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 17:54:17924][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:54:1844 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:54:1845 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:54:1847 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:54:1847 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 17:54:22511][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:54:22542][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:54:22629][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[INFO ][2018/01/31 17:54:22633][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:54:22653][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[ERROR][2018/01/31 17:54:22656][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:54:22694][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[INFO ][2018/01/31 17:54:22724][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[ERROR][2018/01/31 17:54:22736][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:54:22767][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:54:24725][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:54:24726][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:54:24767][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:54:24769][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:58:51268][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/01/31 17:59:19317][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 17:59:19318][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 17:59:19320][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 17:59:19320][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:59:19320][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 17:59:19321][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:59:19322][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:59:19715][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:59:19716][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 17:59:19718][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 17:59:19787][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 17:59:19788][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 17:59:19922][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 17:59:2036 ][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 17:59:2062 ][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 17:59:2062 ][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 17:59:2063 ][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\sogou-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 17:59:2063 ][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\baidu-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 17:59:20111][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 17:59:20111][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 17:59:20127][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:59:20127][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:59:2235 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:59:22151][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:59:22153][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:59:22154][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:59:22154][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 17:59:22258][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:59:22371][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:59:22373][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:59:22376][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:59:22376][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 17:59:2724 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:59:2756 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:59:2792 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:59:27124][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:59:27125][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:59:27148][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:59:27164][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:59:27232][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:59:27276][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:59:27330][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:59:29330][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:59:29333][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:59:29333][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:59:30544][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:59:30656][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:59:30658][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:59:30660][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:59:30660][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 17:59:33710][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:59:33733][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:59:33803][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:59:33828][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:59:33863][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:59:35864][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:59:35865][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:59:35866][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:59:37119][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:59:37230][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:59:37232][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:59:37234][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:59:37234][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 17:59:40701][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:59:40724][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:59:40806][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:59:40831][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:59:40876][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 17:59:42876][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:59:42878][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:59:49161][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 17:59:49163][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 17:59:49164][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 17:59:50463][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 17:59:50574][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 17:59:50583][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 17:59:50585][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 17:59:50585][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 17:59:53243][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 17:59:53266][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 17:59:53295][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 17:59:53323][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 17:59:53352][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 18:00:15350][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 18:00:15351][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 18:00:15352][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 18:00:16844][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 18:00:16957][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 18:00:16959][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 18:00:16961][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 18:00:16961][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 18:00:20712][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 18:00:20756][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 18:00:20791][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 18:00:20826][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 18:00:20865][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 18:00:42863][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 18:00:42865][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 18:02:24828][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/01/31 18:02:24828][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/01/31 18:02:24830][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/01/31 18:02:24830][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/01/31 18:02:24830][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/01/31 18:02:24831][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 18:02:24832][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 18:02:24888][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 18:02:24888][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/01/31 18:02:24890][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/01/31 18:02:24946][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/01/31 18:02:24946][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/01/31 18:02:24947][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/01/31 18:02:24955][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 18:02:24956][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\sogou-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 18:02:24964][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:110)]
+开始生成DataProvider......
+[INFO ][2018/01/31 18:02:24964][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:124)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\baidu-datadrive.xlsx】，正在加载......
+[INFO ][2018/01/31 18:02:24983][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 18:02:24984][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 18:02:24998][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:126)]
+数据驱动文件加载完成
+[INFO ][2018/01/31 18:02:250  ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 18:02:26451][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 18:02:26565][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 18:02:26586][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 18:02:26587][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 18:02:26588][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 18:02:27871][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 18:02:27984][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 18:02:27987][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 18:02:27989][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 18:02:27989][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【1】条数据--正在执行---
+[INFO ][2018/01/31 18:02:31498][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 18:02:31529][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 18:02:31563][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[INFO ][2018/01/31 18:02:31570][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 18:02:31596][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[ERROR][2018/01/31 18:02:31597][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 18:02:31637][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 18:02:31685][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 18:02:31710][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 18:02:31761][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 18:02:33761][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 18:02:33763][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 18:02:33763][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 18:02:34956][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 18:02:3575 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 18:02:3577 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 18:02:3579 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 18:02:3579 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 18:02:3849 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 18:02:3871 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 18:02:38152][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 18:02:38179][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 18:02:38221][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 18:02:40221][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 18:02:40222][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 18:02:40223][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 18:02:41530][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 18:02:41641][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 18:02:41643][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 18:02:41644][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 18:02:41644][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 18:02:44238][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 18:02:44261][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/01/31 18:02:44347][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 18:02:44372][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/01/31 18:02:44470][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 18:02:46470][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 18:02:46471][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 18:02:53635][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 18:02:53637][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 18:02:53637][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 18:02:55193][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 18:02:55303][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 18:02:55305][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 18:02:55307][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 18:02:55308][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【2】条数据--正在执行---
+[INFO ][2018/01/31 18:02:5812 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 18:02:5842 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 18:02:5879 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 18:02:58108][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 18:02:58144][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 18:03:20142][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 18:03:20143][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 18:03:20144][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:52)]
+开始获取WebDrier
+[INFO ][2018/01/31 18:03:21430][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:75)]
+获取到opera浏览器WebDriver
+[INFO ][2018/01/31 18:03:21542][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:92)]
+设置JavaScript加载超时时间：30
+[INFO ][2018/01/31 18:03:21544][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:94)]
+设置PageLoad超时时间：30
+[INFO ][2018/01/31 18:03:21545][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:96)]
+设置隐性等待超时时间：30
+[INFO ][2018/01/31 18:03:21545][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:151)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【3】条数据--正在执行---
+[INFO ][2018/01/31 18:03:28899][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/01/31 18:03:28921][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/01/31 18:03:28967][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/01/31 18:03:28996][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/01/31 18:03:2925 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/01/31 18:03:5123 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:161)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/01/31 18:03:5124 ][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:206)]
+退出浏览器
+[INFO ][2018/01/31 18:05:37727][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功

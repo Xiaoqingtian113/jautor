@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestPlan testname="测试计划" guiclass="quark.jautor.core.TestPlanGUI" testclass="quark.jautor.core.TestPlan" description="" awname="测试计划" enabled="true" status="notest">
+  <TestSuite testname="测试套件" guiclass="quark.jautor.core.TestSuiteGUI" testclass="quark.jautor.core.TestSuite" description="" awname="测试套件" enabled="true" status="notest">
+    <StringProp testname="TestSuite.uuid">7e3c78f1-91ce-4634-89ae-cbe24099160b</StringProp>
+  </TestSuite>
+  <HashTree>
+    <TestCase testname="测试用例" guiclass="quark.jautor.core.TestCaseGUI" testclass="quark.jautor.core.TestCase" description="" awname="测试用例" enabled="true" status="notest">
+      <StringProp testname="TestCase.dataPath"></StringProp>
+      <StringProp testname="TestCase.poPath"></StringProp>
+      <StringProp testname="TestCase.uuid">28e1fba3-a171-4a0a-9230-8ed76583db5b</StringProp>
+    </TestCase>
+    <HashTree>
+      <OpenURL testname="打开网址" guiclass="quark.jautor.browser.OpenURLGUI" testclass="quark.jautor.browser.OpenURL" description="" awname="打开网址" enabled="true" status="notest">
+        <StringProp testname="OpenURL.url">http://www.baidu.com</StringProp>
+      </OpenURL>
+      <HashTree/>
+      <Wait testname="线程等待" guiclass="quark.jautor.other.WaitGUI" testclass="quark.jautor.other.Wait" description="" awname="线程等待" enabled="true" status="notest">
+        <LongProp testname="Wait.waitTime">3000</LongProp>
+      </Wait>
+      <HashTree/>
+      <ClosePage testname="关闭页面" guiclass="quark.jautor.browser.ClosePageGUI" testclass="quark.jautor.browser.ClosePage" description="" awname="关闭页面" enabled="true" status="notest"/>
+      <HashTree/>
+    </HashTree>
+  </HashTree>
+</TestPlan>

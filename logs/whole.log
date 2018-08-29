@@ -1,0 +1,68 @@
+[INFO ][2018/05/25 15:06:38785][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/05/25 15:08:46337][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/05/25 15:10:17792][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/05/25 15:10:17793][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/05/25 15:10:25661][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/05/25 15:10:25664][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/05/25 15:10:25683][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/05/25 15:10:25684][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/05/25 15:10:25688][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/05/25 15:10:26437][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/05/25 15:10:26470][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/05/25 15:10:26510][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/05/25 15:10:26817][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/05/25 15:10:26845][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:98)]
+开始生成DataProvider......
+[WARN ][2018/05/25 15:10:26845][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:102)]
+没有数据驱动文件
+[INFO ][2018/05/25 15:10:26893][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/05/25 15:11:54418][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/05/25 15:11:54419][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/05/25 15:11:54420][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/05/25 15:11:54421][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/05/25 15:11:54421][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/05/25 15:11:54421][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/05/25 15:11:54422][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/05/25 15:11:54500][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/05/25 15:11:54501][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/05/25 15:11:54502][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/05/25 15:11:54509][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:98)]
+开始生成DataProvider......
+[WARN ][2018/05/25 15:11:54509][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:102)]
+没有数据驱动文件
+[INFO ][2018/05/25 15:11:54509][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/05/25 15:11:56148][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:57)]
+获取到InternetExplorer浏览器WebDriver
+[INFO ][2018/05/25 15:11:56148][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:139)]
+---测试套件【测试套件】--测试用例【测试用例】--第【0】条数据--正在执行---
+[INFO ][2018/05/25 15:11:58126][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【测试用例】下面的测试步骤【打开网址】执行通过
+[INFO ][2018/05/25 15:12:01126][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【测试用例】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/05/25 15:12:01139][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【测试用例】下面的测试步骤【关闭页面】执行通过

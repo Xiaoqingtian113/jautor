@@ -1,0 +1,166 @@
+[INFO ][2018/02/08 11:04:39204][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/02/08 11:12:45255][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/02/08 13:19:1829 ][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/icon.properties】成功
+[INFO ][2018/02/08 13:19:57386][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:39)]
+开始执行测试.................
+[INFO ][2018/02/08 13:19:57386][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:41)]
+开始保存脚本..............
+[INFO ][2018/02/08 13:19:57393][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:44)]
+保存脚本完成.................
+[INFO ][2018/02/08 13:19:57396][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/02/08 13:19:57396][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:50)]
+正在进行测试前准备：生成测试用例、编译、生成静态对象、生成testng.xml配置.........
+[INFO ][2018/02/08 13:19:57396][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/02/08 13:19:57401][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/02/08 13:19:58122][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/02/08 13:19:58122][quark.jautor.core.TestSuite.exec(TestSuite.java:100)]
+正在生成测试用例源文件
+[INFO ][2018/02/08 13:19:58127][quark.jautor.core.TestSuite.exec(TestSuite.java:103)]
+正在编译生成的测试用例
+[INFO ][2018/02/08 13:19:58211][quark.jautor.core.TestSuite.exec(TestSuite.java:106)]
+正在创建静态对象
+[INFO ][2018/02/08 13:19:58212][quark.jautor.core.TestPlan.exec(TestPlan.java:42)]
+正在生成testng.xml配置文件
+[INFO ][2018/02/08 13:19:58248][quark.jautor.gui.ExecuterListener.actionPerformed(ExecuterListener.java:53)]
+正在执行testng...........
+[INFO ][2018/02/08 13:19:58452][quark.jautor.core.PropertiesUtil.read(PropertiesUtil.java:19)]
+加载配置文件【config/global.properties】成功
+[INFO ][2018/02/08 13:19:58479][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:98)]
+开始生成DataProvider......
+[INFO ][2018/02/08 13:19:58480][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:112)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\baidu-datadrive.xlsx】，正在加载......
+[INFO ][2018/02/08 13:19:58479][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:98)]
+开始生成DataProvider......
+[INFO ][2018/02/08 13:19:58481][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:112)]
+发现数据驱动文件【E:\workspace\jautor\testcases\zhuchunqing\Search\sogou-datadrive.xlsx】，正在加载......
+[INFO ][2018/02/08 13:19:58504][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:114)]
+数据驱动文件加载完成
+[INFO ][2018/02/08 13:19:58506][quark.jautor.core.BaseExecuter.getProvider(BaseExecuter.java:114)]
+数据驱动文件加载完成
+[INFO ][2018/02/08 13:19:58517][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/02/08 13:19:58517][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/02/08 13:20:02308][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:57)]
+获取到InternetExplorer浏览器WebDriver
+[INFO ][2018/02/08 13:20:02308][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:57)]
+获取到InternetExplorer浏览器WebDriver
+[INFO ][2018/02/08 13:20:02309][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:139)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【1】条数据--正在执行---
+[INFO ][2018/02/08 13:20:02308][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:139)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【1】条数据--正在执行---
+[INFO ][2018/02/08 13:20:02836][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[INFO ][2018/02/08 13:20:02954][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/02/08 13:20:0320 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[ERROR][2018/02/08 13:20:0380 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/02/08 13:20:03243][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[INFO ][2018/02/08 13:20:03360][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/02/08 13:20:03413][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[ERROR][2018/02/08 13:20:03472][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/02/08 13:20:04239][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/02/08 13:20:04517][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/02/08 13:20:06518][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/02/08 13:20:0756 ][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:187)]
+退出浏览器
+[INFO ][2018/02/08 13:20:0757 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/02/08 13:20:08117][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:57)]
+获取到InternetExplorer浏览器WebDriver
+[INFO ][2018/02/08 13:20:08117][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:139)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【2】条数据--正在执行---
+[INFO ][2018/02/08 13:20:09775][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/02/08 13:20:09875][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/02/08 13:20:1058 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/02/08 13:20:10157][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/02/08 13:20:1177 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/02/08 13:20:1377 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/02/08 13:20:13601][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:187)]
+退出浏览器
+[INFO ][2018/02/08 13:20:13602][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/02/08 13:20:14925][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:57)]
+获取到InternetExplorer浏览器WebDriver
+[INFO ][2018/02/08 13:20:14926][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:139)]
+---测试套件【baidu】--测试用例【baidu搜索】--第【3】条数据--正在执行---
+[INFO ][2018/02/08 13:20:20654][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/02/08 13:20:20744][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索关键字】定位成功
+[INFO ][2018/02/08 13:20:20924][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/02/08 13:20:2115 ][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【baidu首页-搜索按钮】定位成功
+[INFO ][2018/02/08 13:20:21832][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/02/08 13:20:23833][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【baidu搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/02/08 13:20:24357][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:187)]
+退出浏览器
+[INFO ][2018/02/08 13:20:26241][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/02/08 13:20:26767][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:187)]
+退出浏览器
+[INFO ][2018/02/08 13:20:26769][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/02/08 13:20:27814][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:57)]
+获取到InternetExplorer浏览器WebDriver
+[INFO ][2018/02/08 13:20:27814][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:139)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【2】条数据--正在执行---
+[INFO ][2018/02/08 13:20:28229][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/02/08 13:20:28342][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/02/08 13:20:28528][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/02/08 13:20:28652][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/02/08 13:20:31125][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/02/08 13:20:53128][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/02/08 13:20:53651][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:187)]
+退出浏览器
+[INFO ][2018/02/08 13:20:53652][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:51)]
+开始获取WebDrier
+[INFO ][2018/02/08 13:20:5597 ][quark.jautor.core.BaseExecuter.getWebDriver(BaseExecuter.java:57)]
+获取到InternetExplorer浏览器WebDriver
+[INFO ][2018/02/08 13:20:5597 ][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:139)]
+---测试套件【sogou】--测试用例【Sogou搜索】--第【3】条数据--正在执行---
+[INFO ][2018/02/08 13:20:55520][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【打开网址】执行通过
+[ERROR][2018/02/08 13:20:55611][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索关键字】定位成功
+[INFO ][2018/02/08 13:20:55814][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【输入】执行通过
+[ERROR][2018/02/08 13:20:55939][quark.jautor.core.LocateBaseNode.exec(LocateBaseNode.java:119)]
+元素【sogou首页-搜索按钮】定位成功
+[INFO ][2018/02/08 13:20:57813][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【点击】执行通过
+[INFO ][2018/02/08 13:21:19815][quark.jautor.core.BaseExecuter.execAll(BaseExecuter.java:149)]
+测试用例【Sogou搜索】下面的测试步骤【线程等待】执行通过
+[INFO ][2018/02/08 13:21:20340][quark.jautor.core.BaseExecuter.quitWebDriver(BaseExecuter.java:187)]
+退出浏览器

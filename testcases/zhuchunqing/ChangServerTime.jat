@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestPlan testname="测试计划" guiclass="quark.jautor.core.TestPlanGUI" testclass="quark.jautor.core.TestPlan" description="" awname="测试计划" enabled="true" status="notest">
+  <TestSuite testname="测试套件" guiclass="quark.jautor.core.TestSuiteGUI" testclass="quark.jautor.core.TestSuite" description="" awname="测试套件" enabled="true" status="notest">
+    <StringProp testname="TestSuite.uuid">a48c6b4b-a1fe-429a-a1e1-329e3935a80a</StringProp>
+  </TestSuite>
+  <HashTree>
+    <TestCase testname="测试用例" guiclass="quark.jautor.core.TestCaseGUI" testclass="quark.jautor.core.TestCase" description="" awname="测试用例" enabled="true" status="notest">
+      <StringProp testname="TestCase.dataPath"></StringProp>
+      <StringProp testname="TestCase.poPath"></StringProp>
+      <StringProp testname="TestCase.uuid">00e80397-27f5-4f6a-a0d6-b9c92ef69472</StringProp>
+    </TestCase>
+    <HashTree>
+      <ChangeServerTime testname="切服务器时间" guiclass="quark.jautor.userdefine.ChangeServerTimeGUI" testclass="quark.jautor.userdefine.ChangeServerTime" description="" awname="切服务器时间" enabled="true" status="notest">
+        <IntProp testname="ChangeServerTime.year">2018</IntProp>
+        <IntProp testname="ChangeServerTime.month">0</IntProp>
+        <IntProp testname="ChangeServerTime.day">26</IntProp>
+        <IntProp testname="ChangeServerTime.hour">3</IntProp>
+        <IntProp testname="ChangeServerTime.minute">28</IntProp>
+        <IntProp testname="ChangeServerTime.second">21</IntProp>
+        <StringProp testname="ChangeServerTime.ip">192.168.192.130</StringProp>
+        <StringProp testname="ChangeServerTime.port">22</StringProp>
+        <StringProp testname="ChangeServerTime.user">root</StringProp>
+        <StringProp testname="ChangeServerTime.pwd">123456</StringProp>
+      </ChangeServerTime>
+      <HashTree/>
+    </HashTree>
+  </HashTree>
+</TestPlan>

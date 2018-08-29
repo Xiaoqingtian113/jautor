@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AWTree testname="AW库" dragable="false">
+	<Component testname="用例组件" dragable="false">
+		<TestSuite testname="测试套件" guiclass="quark.jautor.core.TestSuiteGUI" testclass="quark.jautor.core.TestSuite" dragable="true"/>
+		<TestCase testname="测试用例" guiclass="quark.jautor.core.TestCaseGUI" testclass="quark.jautor.core.TestCase" dragable="true"/>
+	</Component>
+	<BrowserAction testname="浏览器操作" dragable="false">
+		<OpenURL testname="打开网址" guiclass="quark.jautor.browser.OpenURLGUI" testclass="quark.jautor.browser.OpenURL" dragable="true"/>
+	 	<ClosePage testname="关闭页面" guiclass="quark.jautor.browser.ClosePageGUI" testclass="quark.jautor.browser.ClosePage" dragable="true"/>
+	 	<GetPageInfo testname="获取页面信息" dragable="false">
+			<GetCurrentURL testname="获取当前URL" guiclass="quark.jautor.browser.GetCurrentURLGUI" testclass="quark.jautor.browser.GetCurrentURL" dragable="true"/>
+			<GetPageSource testname="获取当前页面源码" guiclass="quark.jautor.browser.GetPageSourceGUI" testclass="quark.jautor.browser.GetPageSource" dragable="true"/>
+			<GetTittle testname="获取当前页面标题" guiclass="quark.jautor.browser.GetTittleGUI" testclass="quark.jautor.browser.GetTittle" dragable="true"/>
+			<GetHandle testname="获取页面句柄" guiclass="quark.jautor.browser.GetHandleGUI" testclass="quark.jautor.browser.GetHandle" dragable="true"/>
+		</GetPageInfo>
+		<Navigate testname="导航" dragable="false">
+			<NavigateBack testname="后退" guiclass="quark.jautor.browser.NavigateBackGUI" testclass="quark.jautor.browser.NavigateBack" dragable="true"/>
+			<NavigateFoward testname="前进" guiclass="quark.jautor.browser.NavigateFowardGUI" testclass="quark.jautor.browser.NavigateFoward" dragable="true"/>
+			<NavigateRefresh testname="刷新页面" guiclass="quark.jautor.browser.NavigateRefreshGUI" testclass="quark.jautor.browser.NavigateRefresh" dragable="true"/>
+			<NavigateToURL testname="导航到URL" guiclass="quark.jautor.browser.NavigateToURLGUI" testclass="quark.jautor.browser.NavigateToURL" dragable="true"/>
+		</Navigate>
+		<SwitchTo testname="切换到" dragable="false">
+			<SwitchToWindow testname="窗口" guiclass="quark.jautor.browser.SwitchToWindowGUI" testclass="quark.jautor.browser.SwitchToWindow" dragable="true"/>
+			<SwitchToFrame testname="Frame" guiclass="quark.jautor.browser.SwitchToFrameGUI" testclass="quark.jautor.browser.SwitchToFrame" dragable="true"/>
+			<SwitchToParentFrame testname="父Frame" guiclass="quark.jautor.browser.SwitchToParentFrameGUI" testclass="quark.jautor.browser.SwitchToParentFrame" dragable="true"/>
+			<SwitchToAlert testname="模式对话框" guiclass="quark.jautor.browser.SwitchToAlertGUI" testclass="quark.jautor.browser.SwitchToAlert" dragable="true"/>
+			<SwitchToDefaultContent testname="第一个Frame或父Document" guiclass="quark.jautor.browser.SwitchToDefaultContentGUI" testclass="quark.jautor.browser.SwitchToDefaultContent" dragable="true"/>
+			<SwitchToActiveElement testname="焦点元素" guiclass="quark.jautor.browser.SwitchToActiveElementGUI" testclass="quark.jautor.browser.SwitchToActiveElement" dragable="true"/>
+		</SwitchTo>
+		<CookieAction testname="Cookie操作" dragable="false">
+			<CreateCookie testname="创建Cookie" guiclass="quark.jautor.browser.CreateCookieGUI" testclass="quark.jautor.browser.CreateCookie" dragable="true"/>
+			<GetCookie testname="获取Cookie" guiclass="quark.jautor.browser.GetCookieGUI" testclass="quark.jautor.browser.GetCookie" dragable="true"/>
+			<AddCookie testname="添加Cookie" guiclass="quark.jautor.browser.AddCookieGUI" testclass="quark.jautor.browser.AddCookie" dragable="true"/>
+			<DeleteCookie testname="删除Cookie" guiclass="quark.jautor.browser.DeleteCookieGUI" testclass="quark.jautor.browser.DeleteCookie" dragable="true"/>
+		</CookieAction>
+	</BrowserAction>
+	<ElementAction testname="页面元素操作" dragable="false">
+		<Click testname="点击" guiclass="quark.jautor.element.ClickGUI" testclass="quark.jautor.element.Click" dragable="true"/>
+		<SendKeys testname="输入" guiclass="quark.jautor.element.SendKeysGUI" testclass="quark.jautor.element.SendKeys" dragable="true"/>
+		<Combobox testname="组合输入框操作" dragable="false">
+			<SelectOne testname="根据选择项选择" guiclass="quark.jautor.element.SelectOneGUI" testclass="quark.jautor.element.SelectOne" dragable="true"/>
+			<DeselectOne testname="根据选择项取消选择" guiclass="quark.jautor.element.DeselectOneGUI" testclass="quark.jautor.element.DeselectOne" dragable="true"/>
+			<DeselectAll testname="取消选择所有" guiclass="quark.jautor.element.DeselectAllGUI" testclass="quark.jautor.element.DeselectAll" dragable="true"/>
+		</Combobox>
+		<GetElementInfo testname="获取元素信息" dragable="false">
+			<GetText testname="获取页面元素值" guiclass="quark.jautor.element.GetTextGUI" testclass="quark.jautor.element.GetText" dragable="true"/>
+			<GetAttribute testname="获取元素属性" guiclass="quark.jautor.element.GetAttributeGUI" testclass="quark.jautor.element.GetAttribute" dragable="true"/>
+			<GetCssValue testname="获取元素CSS值" guiclass="quark.jautor.element.GetCssValueGUI" testclass="quark.jautor.element.GetCssValue" dragable="true"/>
+		</GetElementInfo>
+		<Submit testname="提交" guiclass="quark.jautor.element.SubmitGUI" testclass="quark.jautor.element.Submit" dragable="true"/>
+		<Clear testname="清除元素文本" guiclass="quark.jautor.element.ClearGUI" testclass="quark.jautor.element.Clear" dragable="true"/>
+	</ElementAction>
+	<DatabaseAction testname="数据库操作" dragable="false">
+		<ConnectDB testname="建立连接" guiclass="quark.jautor.database.ConnectDBGUI" testclass="quark.jautor.database.ConnectDB" dragable="true"/>
+		<QueryDB testname="查询" guiclass="quark.jautor.database.QueryDBGUI" testclass="quark.jautor.database.QueryDB" dragable="true"/>
+		<UpdateDB testname="更新" guiclass="quark.jautor.database.UpdateDBGUI" testclass="quark.jautor.database.UpdateDB" dragable="true"/>
+	</DatabaseAction>
+	<Assertion testname="断言" dragable="false">
+		<Expression testname="布尔表达式" guiclass="quark.jautor.assertion.ExpressionGUI" testclass="quark.jautor.assertion.Expression" dragable="true"/>
+		<VarEqual testname="变量值等于" guiclass="quark.jautor.assertion.VarEqualGUI" testclass="quark.jautor.assertion.VarEqual" dragable="true"/>
+		<VarInclude testname="变量值包含" guiclass="quark.jautor.assertion.VarIncludeGUI" testclass="quark.jautor.assertion.VarInclude" dragable="true"/>
+		<MatchRegex testname="匹配正则表达" guiclass="quark.jautor.assertion.MatchRegexGUI" testclass="quark.jautor.assertion.MatchRegex" dragable="true"/>
+	</Assertion>
+	<Other testname="其他" dragable="false">
+		<ShowValue testname="显示变量值（调试用）" guiclass="quark.jautor.other.ShowValueGUI" testclass="quark.jautor.other.ShowValue" dragable="true"/>
+		<VarDefine testname="自定义变量" guiclass="quark.jautor.other.VarDefineGUI" testclass="quark.jautor.other.VarDefine" dragable="true"/>
+		<Wait testname="线程等待" guiclass="quark.jautor.other.WaitGUI" testclass="quark.jautor.other.Wait" dragable="true"/>
+		<PageLoad testname="等待页面加载" guiclass="quark.jautor.other.PageLoadGUI" testclass="quark.jautor.other.PageLoad" dragable="true"/>
+		<ScreenShot testname="屏幕截图" guiclass="quark.jautor.other.ScreenShotGUI" testclass="quark.jautor.other.ScreenShot" dragable="true"/>
+		<ExecJavascript testname="执行Javascript" guiclass="quark.jautor.other.ExecJavascriptGUI" testclass="quark.jautor.other.ExecJavascript" dragable="true"/>
+	</Other>
+	<UserDefine testname="自定义关键字" dragable="false">
+		<Upload testname="申请系统上传资料" guiclass="quark.jautor.userdefine.UploadGUI" testclass="quark.jautor.userdefine.Upload" dragable="true"/>
+		<ChangeServerTime testname="切服务器时间" guiclass="quark.jautor.userdefine.ChangeServerTimeGUI" testclass="quark.jautor.userdefine.ChangeServerTime" dragable="true"/>
+	</UserDefine>
+	<Random testname="算法工具" dragable="false">
+		<RandomName testname="生成随机人名" guiclass="quark.jautor.random.RandomNameGUI" testclass="quark.jautor.random.RandomName" dragable="true"/>
+		<RandomMobile testname="生成随机手机号" guiclass="quark.jautor.random.RandomMobileGUI" testclass="quark.jautor.random.RandomMobile" dragable="true"/>
+		<RandomBankCard testname="生成随机银行卡号" guiclass="quark.jautor.random.RandomBankCardGUI" testclass="quark.jautor.random.RandomBankCard" dragable="true"/>
+		<RandomIdentify testname="生成随机身份证号" guiclass="quark.jautor.random.RandomIdentifyGUI" testclass="quark.jautor.random.RandomIdentify" dragable="true"/>
+	</Random>
+</AWTree>
